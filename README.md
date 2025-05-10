@@ -11,7 +11,7 @@
 <body>
 
   <nav class="navbar">
-    <img src="JoanaLogo.jpg" alt="Joana Dental Clinic Logo" class="clinic-logo">
+    <img src="images/JoanaLogo.jpg" alt="Joana Dental Clinic Logo" class="clinic-logo">
     <h1>Joana's Dental Clinic</h1>
 
     <div class="hamburger" onclick="toggleMenu()">&#9776;</div>
